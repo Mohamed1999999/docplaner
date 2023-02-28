@@ -1,0 +1,524 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 13.5%;
+    margin-right: 13.5%;
+    padding: 1.5%;
+}
+
+.navbarul{
+   
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+   
+}
+
+
+.navbarul li a {
+    text-decoration: none;
+   
+   
+}
+
+.navbar__link{
+    justify-content: space-between;
+}
+.navbar__link{
+    color: #b1b1b1;
+}
+
+.nlfirst{
+    color: #17b9a4;
+    
+}
+
+.title1{
+    justify-content: center;
+   
+  
+   
+   
+}
+
+.firsttitle{
+   
+    justify-content: center;
+   justify-content: center;
+    font-size: 32PX;
+    margin-left: 25%;
+    color: #2dc1ad;
+    padding-top: 2%;
+}
+
+/* Partie-I */
+.logo1{
+   margin-left: 48%;
+   padding-top: 2%;
+}
+
+.boostrap1{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    
+}
+
+.col-6{
+    width: 40%;
+    font-size: large;
+   
+    padding-top: 40px;
+   
+    
+    
+   
+}
+.p1{
+    margin-left:9% ;
+   
+}
+.p2{
+ 
+    margin-right:9% ;
+}
+
+.firstbox{
+   
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: -85%;
+    margin-top: 75px;
+    
+
+}
+
+.col-4{
+    
+    width: 323PX;
+    height: 340PX;
+    border-radius: 10px;
+   
+}
+.box1{
+    background: #00ccb1;
+   margin-left: 11%;
+   
+}
+
+.box2{
+    background-color: #3d83df
+}
+
+.box3{
+    background-color: #1b2734;
+    margin-right: 11%;
+}
+
+.logobox1{
+    margin-left: 10%;
+    padding-top: 10%;
+}
+.logobox2{ margin-left: 10%;
+    padding-top: 10%;
+}
+.logobox3{
+    margin-left: 10%;
+    padding-top: 10%;
+}
+
+
+
+
+.forpatients{
+    color: #eff2d4;
+    height: 20%;
+    display: flex;
+    margin-left: 10%;
+    padding-top:0;
+    font-size:xx-large;
+}
+
+.pboxs{
+    color:#eff2d4;
+    font-size: 25px;
+    /* justify-self:flex-start; */
+    align-self: center;
+   
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -10%;
+   
+
+}
+
+
+.ulmenu1{
+      color:#eff2d4;
+      list-style-type:none;
+    
+}
+
+
+.fordoctors, .forclinics{
+    color: #eff2d4;
+    height: 20%;
+    display: flex;
+    margin-left: 10%;
+    padding-top:0;
+    font-size:xx-large;
+}
+
+.select{
+    margin-top: 12%;
+    background-color: none;
+    border: 0;
+    box-sizing: 0;
+    margin-left: 10%;
+}
+
+.topselect{
+        
+        margin-top: -40%;
+    }
+
+.lastselect{
+    margin-top: 4%;
+}
+       
+/* PartieII */
+
+
+
+
+.secondbox_logos{
+    
+    width: 100%;
+    height: 300px;
+   display: flex;
+   margin-top: 15%;
+   justify-content: space-evenly;
+ 
+}
+
+.box4{
+    
+    height: 100%;
+}
+.box5{
+   
+    height: 100%;
+    
+}
+
+.box6{
+   
+    height: 100%;
+   
+}
+
+.psbox{
+    color:#6bb3b1 ;
+    width: 80%;
+    font-size:x-large;
+    height: 30%;
+    margin-left: 25%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.star{
+    color:#c4c4c4;
+    width: 7%;
+}
+
+.ab2{
+    color:#c4c4c4;
+    width: 50%;
+    font-size: 22px;
+    justify-content: space-evenly;
+    text-decoration: none;
+   margin-top: 30%;
+   
+   
+    
+}
+.ab2:hover{
+    color: #00ccb1;
+    
+}
+
+.ab22{
+    color: #b1b1b1;
+}
+
+.lastlogobox2{
+    width: 30%;
+    color: #b1b1b1;
+
+}
+
+.star{
+    text-decoration: none;
+}
+
+
+/* troisiéme partie */
+
+.thirdbox{
+    background-color:#dbf7f6;
+    width: 100%;
+    height: 550px;
+    display: flex;
+    
+}
+
+.colthird3{
+    background-color: #de430f;
+    margin-left: 8%;
+}
+
+.colthird1{
+    justify-content:space-evenly;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.pcolthird1{
+    color: #00ccb1;
+    font-size: 30px;
+}
+
+.pcolthird2{
+    color: #b1b1b1;
+    font-size: 11.5px;
+    
+}
+
+.colthirdboxs{
+       width: 10%;
+       background-color: #dbf7f6;
+
+}
+
+
+
+
+/* quatriéme partie */
+
+.section3__container{
+    background-color:#d9f6f6;
+    width: 100%;
+   height: 500px;
+   
+}
+.section3__container h4{
+    margin-left:12%;
+   padding-top: 4%;
+    color: #17b9a4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.section3__container p{
+    margin-left: 12%;
+    padding-top: 2%;
+
+}
+.section3__boxI{
+    margin-left: 55%;
+    display: block;
+}
+
+.section3__box1{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin-top: -24%;
+    border-radius: 5PX;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+     /* box */
+.drapeau{
+    margin-left: 40%;
+}
+.section3__box1 .p1{
+    font-size: 24px;
+}
+.section3__box1 .p2{
+     margin-top:-10%;
+     margin-left: 35%;
+}
+.section3__box1 p{
+        font-size: x-small;
+        margin-right: 5%;
+}
+.section3__box2{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin-top: 4%;
+    border-radius: 5PX;
+    text-align: center;
+    padding: 5%;
+   
+   
+}
+
+.section3__boxII{
+    margin-left: 75%;
+    margin-top: -32%;
+}
+
+.section3__box4{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 5PX;
+    padding: 10%;
+    margin-left: 5%;
+   
+}
+
+.section3__box5{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    border-radius: 5PX;
+    text-align: center;
+    align-self: flex-end;
+   
+}
+
+
+.section4{
+    width: 100%;
+    height: 300px;
+    background-color:white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.section4 h4{
+    color: #17b9a4;
+}
+.section4 p{
+    font-size: medium;
+    margin-top: 3%;
+}
+/* pour les 4box */
+
+.section4_boxI{
+    display: block;
+}
+.section4_box1{
+    background-color: white;
+    width: 12px;
+}
+/* quatriéme partie */
+
+.firstcity{
+    border: #a9b1b1;
+    width: 100%;
+    height:750px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+
+.divcity{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+    border: 1px;
+    border-radius: 1px;
+    background-color:white;
+}
+
+.or2{
+    margin-top: -26%;
+}
+
+.firstcity h5{
+    color: #7476a1;
+}
+
+.firstcity button{
+    background-color: blue;
+    color: #dbf7f6;
+    border: navajowhite;
+    border-radius: 5px;
+
+}
+
+.lastp{
+    margin-top: -23%;
+    margin-left: 35%;
+    font-size: xx-large;
+    color: #333368;
+    
+}
+
+.lastbutton{
+    border: #d9f6f6;
+    border-radius: 3px;
+    background-color: blue;
+    color: #d9f6f6;
+    margin-left: 42%;
+    height: 40px;
+    width: 15%;
+    font-size: small;
+
+}
+
+footer{
+    height: 130px;
+    background-color:rgb(240, 239, 239);
+    border: 10px;
+    border-radius: 2PX;
+    margin-top: 10%;
+    position: ;
+}
+ .pfooter{
+    
+    color: blue;
+    
+} 
+.pff{
+    margin-left: 20%;
+    font-size: small;
+    margin-top: -20%;
+  
+}
+.lastline{
+    margin-left:35%;
+    margin-top: -1%;
+}
+.pl{
+    margin-left: 10%;
+    margin-top: 2.5%;
+}
+/* .lastparagraph{
+    margin-left: 35%;
+    fon
+} */
+
+
+
+
+
+
+
+
